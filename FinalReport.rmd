@@ -85,4 +85,5 @@ P-value 0.0000000423 the vaccine is very effective. the odds ratio is 2.81. you 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
  
+ Is the vaccine effective in preventing aids. we did a chiqtest resulting in a p value less than 0.05. therefore we reject the null hypothesis. the vaccine is effective for preventing aids. if you take  the vaccine you are 2.8x more likely to not get aids than someone who did not take the vaccine. 
  
